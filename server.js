@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 
-var alphabetString = "#abcdefghijklmnopqrstuvwxyz";
+var alphabetString = "abcdefghijklmnopqrstuvwxyz";
 var alphabet = alphabetString.split('');
 var currentIndex = 0;
 
